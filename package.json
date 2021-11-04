@@ -1,6 +1,6 @@
 {
   "name": "scrivito-external-image-browser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component/Scrivito widget for the Scrivito CMS that let you browse and embed images from Europeana, Smithsonia or Unsplash.",
   "main": "index.js",
   "peerDependencies": {
