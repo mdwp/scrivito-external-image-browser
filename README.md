@@ -5,7 +5,7 @@ A React component/Scrivito widget for the Scrivito CMS that let you browse and e
 
 ## Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/mdwp/scrivito-piechart/master/external-image-browser.png)
+![Screenshot](https://raw.githubusercontent.com/mdwp/scrivito-piechart/main/external-image-browser.png)
 
 ## Installation
 
